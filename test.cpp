@@ -1,10 +1,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-int main()
-{
-	cout << setfill(' ');
-	cout << setw(5);
-	cout << 34 << 44;
+int main() {
+	cout << "Hello World" << endl;
 	return 0;
 }
